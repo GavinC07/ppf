@@ -9,7 +9,7 @@ Drawing graphics project with keypress controls and ability to save image.
 
 ![Running App](https://github.com/GavinC07/ppf/blob/main/images/EtchASketch.png?raw=true)
 
-[Source Code]
+[Source Code](https://github.com/GavinC07/ppf/tree/main/src/etchASketch)
 
 ## Term 2
 ### Calculator
