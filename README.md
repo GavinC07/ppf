@@ -1,5 +1,6 @@
 # Gavin Chard Programming Portfolio 2024-25
-* Contact Info | (gavin.chard@gmail.com "Email")
+* Contact Info | Inline-style: 
+![alt text](gavin.chard@gmail.com "Email")
 * Projected graduation 2026
 * Interests in Fashion
 
