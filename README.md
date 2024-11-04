@@ -1,11 +1,12 @@
 # Gavin Chard Programming Portfolio 2024-25
-* Contact Info | [gavin.chard@gmail.com "Email"]
+* Contact Info | (gavin.chard@gmail.com "Email")
 * Projected graduation 2026
 * Interests in Fashion
 
 ## Term 1 
-
-
+### Etch-A-Sketch
+Graphic project with drawing functions with the keypress controls ability
 
 
 ## Term 2
+### Calculator
