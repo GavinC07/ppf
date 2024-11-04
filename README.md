@@ -7,6 +7,9 @@
 ### Etch-A-Sketch
 Drawing graphics project with keypress controls and ability to save image.
 
+![Running App](https://github.com/GavinC07/ppf/blob/main/images/EtchASketch.png?raw=true)
+
+[Source Code]
 
 ## Term 2
 ### Calculator
@@ -14,4 +17,4 @@ Object oriented graphical calculator with custom UI and Buttons.
 
 ![Running App](https://github.com/GavinC07/ppf/blob/main/images/Calc1.png?raw=true)
 
-[Source code](https://github.com/GavinC07/ppf/tree/main/src/Calc_App)
+[Source Code](https://github.com/GavinC07/ppf/tree/main/src/Calc_App)
