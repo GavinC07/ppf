@@ -5,8 +5,8 @@
 
 ## Certificates
 
-! [Running App](https://github.com/GavinC07/ppf/blob/main/images/Graphics%201.png)
-! [Running App](https://github.com/GavinC07/ppf/blob/main/images/Graphics%202.png)
+! [Running App](https://github.com/GavinC07/ppf/blob/main/images/Graphics%201.png?raw=true)
+! [Running App](https://github.com/GavinC07/ppf/blob/main/images/Graphics%202.png?raw=true)
 
 ## Term 1 
 ### Etch-A-Sketch
