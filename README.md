@@ -5,7 +5,7 @@
 
 ## Certificates
 
-! [Running App](https://github.com/GavinC07/ppf/blob/main/images/Gavin%20Chard_Graphic%20Print%20Design%202%20_12112024.png?raw=true)
+! [Running App]()
 
 ## Term 1 
 ### Etch-A-Sketch
