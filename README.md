@@ -1,7 +1,9 @@
-# Gavin Chard Programming Portfolio 2024-25
+# Gavin Chard Portfolio 2024-25
 * Contact Info | Email: [gavin.chard@gmail.com](gavin.chard@gmail.com) | Phone: [385-910-6312](385-910-6312)
 * Projected graduation 2026
 * Interests in Fashion
+
+##Certificate
 
 ## Term 1 
 ### Etch-A-Sketch
