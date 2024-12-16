@@ -15,6 +15,17 @@ Drawing graphics project with keypress controls and ability to save image.
 
 [Source Code](https://github.com/GavinC07/ppf/tree/main/src/etchASketch)
 
+### Grading App
+Grading program thatcalculates grade based on Decimal
+
+![Running App](https://github.com/GavinC07/ppf/blob/main/images/GradingApp.png?raw=true)
+[Source Code](https://github.com/GavinC07/ppf/tree/main/src/gradingApp)
+
+### Conversion App
+Calculates temperature based on mouse position
+![Running App](https://github.com/GavinC07/ppf/blob/main/images/ConversionApp.png?raw=true)
+[Source Code](https://github.com/GavinC07/ppf/tree/main/src/ConversionApp)
+
 ## Term 2
 ### Calculator
 Object oriented graphical calculator with custom UI and Buttons.
