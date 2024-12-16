@@ -3,7 +3,7 @@
 * Projected graduation 2026
 * Interests in Fashion
 
-##Certificate
+## Certificates
 
 ## Term 1 
 ### Etch-A-Sketch
